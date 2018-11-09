@@ -20,7 +20,7 @@ Properties of Array:
 8. Use parallel logic for rows and for columns
 9. Simulate the specifications by computing output from the beginning.
 
-## Key Array/List Methods ##
+## Key Array/List Operations ##
 
 - Instantiating Arrays:
   - [3, 5, 6, 7, 8]
